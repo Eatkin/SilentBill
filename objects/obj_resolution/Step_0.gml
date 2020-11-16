@@ -15,7 +15,7 @@ if (os_browser!=browser_not_a_browser)	{
 			displayHeight=temp;
 		}
 		
-	while (windowWidth*(scale)<displayWidth and windowHeight*(scale)<displayHeight)
+	while (windowWidth*(scale+1)<=displayWidth and windowHeight*(scale+1)<=displayHeight)
 		scale+=1;
 		
 	//DEBUG - REDUCE SCALE BY 1 BECAUSE OTHERWISE IT OVER-FILLS THE SCREEN
