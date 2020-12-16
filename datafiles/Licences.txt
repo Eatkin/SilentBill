@@ -1,11 +1,4 @@
-This work by Edward Atkin is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0
-
-Work by Edward Atkin includes all graphical assets and code with exceptions outlined below.
-
-This work may be remixed, adapted and used as you see fit for non-commercial purposes. The original work must be accredited.
-
-The music and sound effects are provided by Richard Kerry:
-https://richardkerry.bandcamp.com/
+All Rights Reserved Edward Atkin and Richard Kerry (music and sound). Exceptions noted below.
 
 The film grain texture included with this project is provided by Shepherd Cartography, (Creative Commons 3.0 licence)
 https://www.deviantart.com/shepherdcartography/art/Film-Grain-92981739

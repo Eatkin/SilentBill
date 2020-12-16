@@ -831,14 +831,6 @@
             }
         },
         {
-            "Key": "6803c80e-d3ef-4b0d-b194-c0a2062fbe24",
-            "Value": {
-                "id": "d7834bbd-dd00-492a-a32c-e04c52847cf6",
-                "resourcePath": "datafiles_yy\\Licences.txt.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
             "Key": "681c1e18-7343-4952-ad9e-ba7feb10aedf",
             "Value": {
                 "id": "43a1e4b0-39ed-4984-afb3-587ecc58c9d5",
@@ -1404,6 +1396,14 @@
                 "id": "ca4ac229-3b48-4ff2-b639-2441e89821c1",
                 "resourcePath": "views\\ab4c55e0-061d-4648-ae1f-2aada6eb3570.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ab6b7fcc-6c4e-4754-b19f-6539c5c61e88",
+            "Value": {
+                "id": "a156e350-9c62-49a9-a507-44cb71862dc1",
+                "resourcePath": "datafiles_yy\\Licences.txt.yy",
+                "resourceType": "GMIncludedFile"
             }
         },
         {
